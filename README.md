@@ -3,6 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+Please find the build status below:
 [![Build Status](https://dev.azure.com/ramganeshnaz400/PartsUnlimited/_apis/build/status/Ram531.calculator?branchName=master)](https://dev.azure.com/ramganeshnaz400/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
@@ -16,4 +17,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+Please find the build status below:
 [![Build Status](https://dev.azure.com/ramganeshnaz400/AzKyVaultProject/_apis/build/status/SmartHotel-CouponManagement-CI?branchName=master)](https://dev.azure.com/ramganeshnaz400/AzKyVaultProject/_build/latest?definitionId=5&branchName=master)
